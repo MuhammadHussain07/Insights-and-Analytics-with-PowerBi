@@ -47,7 +47,7 @@ To use the reports and templates in this repository, you need to have Microsoft 
 1. Clone the repository to your local machine using the following command:
 
    ```sh
-   git clone https://github.com/your-username/Insights-with-Microsoft-PowerBI.git
+   git clone https://github.com/MuhammadHussain07/Insights-and-Analytics-with-PowerBi.git
    ```
 
 2. Open the `.pbix` files in Power BI Desktop to explore the reports and dashboards.
